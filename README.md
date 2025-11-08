@@ -68,7 +68,6 @@ Senior BI Analyst / BI Business Partner
 
 **Artifacts**
 - [`/dashboards/bi-usage-overview.png`](./dashboards/bi-usage-overview.png)  
-- [`/ops/runbook-admin.md`](./ops/runbook-admin.md)
 
 ---
 
